@@ -1,15 +1,3 @@
-# import os
-# import shutil
-
-# file_name = input("Enter File name you want to move")
-# folder_path = "../"
-# full_file_path= folder_path + file_name
-# destination_path = "week1/"
-# if os.path.exists(full_file_path)
-#   shutil.copy(full_file_name,destination)
-
-# print("file copied to another folder successfully")
-
 import os
 import shutil
 
